@@ -18,3 +18,7 @@
 	
 	4.-Step
 	Upload all the files from the WebSite2 folder to your hosting.
+ 
+ 	5.-Step
+ 	Perform a query on your select * from base database to obtain the results of the victims who have entered your site.
+
