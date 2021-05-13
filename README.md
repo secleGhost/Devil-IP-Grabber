@@ -21,4 +21,4 @@
  
  	5.-Step
  	Perform a query on your select * from base database to obtain the results of the victims who have entered your site.
-
+![alt text2](https://github.com/secleGhost/Devil-IP-Grabber/blob/f3a9cca9358ee5b0faabc14ff8619c2c04b78784/screenshots/Captura%20de%20pantalla%20(15).png?raw=true)
